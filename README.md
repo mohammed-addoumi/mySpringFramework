@@ -1,6 +1,6 @@
 # mySpringFramework
 
-This project is simply my custom implementation of an alike spring framework in which i added the basic annotations such as :
+This project is simply my custom implementation of an alike spring framework in which i developed the basic annotations such as :
 - Component
 - Configuration
 - Bean
